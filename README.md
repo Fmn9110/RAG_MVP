@@ -5,7 +5,9 @@
 ui界面经过现代化美化，提供舒适的视觉体验。
 
 ## 📷 项目预览
-*(在此处添加运行截图)*
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 ## ✨ 核心特性
 
