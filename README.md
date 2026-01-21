@@ -5,9 +5,9 @@
 ui界面经过现代化美化，提供舒适的视觉体验。
 
 ## 📷 项目预览
-![Uploading image.png…]()
-![Uploading image.png…]()
-
+## 📷 项目预览
+![UI Preview 1](assets/preview_1.png)
+![UI Preview 2](assets/preview_2.png)
 
 ## ✨ 核心特性
 
