@@ -1,0 +1,8 @@
+PySide6
+python-docx
+faiss-cpu
+numpy
+# openai # Uncomment when needed, or install now
+openai
+python-dotenv
+pyinstaller

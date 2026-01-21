@@ -1,0 +1,3 @@
+{"question": "公司的年假政策是什么？", "expected_docs": ["员工手册", "人事制度"], "expected_keywords": ["年假", "假期"]}
+{"question": "如何申请病假？", "expected_docs": ["员工手册", "请假流程"], "expected_keywords": ["病假", "申请"]}
+{"question": "加班费怎么计算？", "expected_docs": ["薪酬管理", "加班制度"], "expected_keywords": ["加班费", "计算"]}
